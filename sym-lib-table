@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ant_connector)(type Legacy)(uri ${KIPRJMOD}/EFHW_ANT_Libs/ant_connector.lib)(options "")(descr ""))
+  (lib (name EHFW_ANT-rescue)(type Legacy)(uri ${KIPRJMOD}/EHFW_ANT-rescue.lib)(options "")(descr ""))
+)

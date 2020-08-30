@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ant_connector)(type KiCad)(uri ${KIPRJMOD}/EFHW_ANT_Libs/ant_connector.pretty)(options "")(descr ""))
+)
